@@ -6,3 +6,5 @@ this is an example reposoatry from git tutorial
 this reposiatary is built step by step in the tutorial
 
 It now includes steps for github
+
+It's again edit for pull command 
